@@ -81,3 +81,10 @@ img:hover {
   background: black;
   padding-top: 15px;
 }
+
+footer {
+  font-size: 8px;
+  color: grey;
+  text-align: center;
+  margin: 15px;
+}
