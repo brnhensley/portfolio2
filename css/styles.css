@@ -43,13 +43,18 @@ img:hover {
 /* This section is for the bottom panel */
 .panel-title  {
   font-size: 40px;
-  font-family: fantasy;
+  font-family: monospace;
   text-align: center;
   background-color: green;
 }
 
 .panel-body {
   background-color: crimson;
+}
+
+.nerds {
+  font-weight: bold;
+  font-family: fantasy;
 }
 
 #bottom-bar {
