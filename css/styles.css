@@ -28,8 +28,8 @@ ul {
 
 img:hover {
   max-width: 90%;
-  background-image: url("img/dumpster.jpg");
-  background: url("img/dumpster.jpg");
+  background-image: src("img/dumpster.jpg");
+  background: url("https://1.bp.blogspot.com/-xx0AopECie8/UW9Q-JLY46I/AAAAAAAAAhw/Ti_ST53dPqY/s1600/Dumpster-Fire.jpg");
 }
 
 /* .projects {
