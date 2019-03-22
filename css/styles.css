@@ -5,6 +5,8 @@ body {
 .jumbotron {
   text-align: center;
   font-family: monospace;
+  margin-top: 15px;
+  padding: 10px;
 }
 
 .image {
@@ -13,13 +15,20 @@ body {
   margin: 15px;
 }
 
-ul {
+.interests ul {
+    list-style: upper-roman inside;
+}
+
+.interests ul ul {
+    list-style: lower-roman inside;
+}
+
+.projects ul {
   list-style: square inside;
 }
 
-.numbered {
+.numbered { /* figure out how to do this with child */
   padding: 5px;
-
 }
 
 .image:hover {
@@ -32,13 +41,10 @@ img:hover {
   background: url("https://1.bp.blogspot.com/-xx0AopECie8/UW9Q-JLY46I/AAAAAAAAAhw/Ti_ST53dPqY/s1600/Dumpster-Fire.jpg");
 }
 
-/* .projects {
-  text-align: left;
-} */
-
 .container {
   margin-bottom: 25px;
 }
+
 
 /* This section is for the bottom panel */
 .panel-title  {
@@ -54,6 +60,10 @@ img:hover {
 
 .nerds {
   font-weight: bold;
+  color: green;
+}
+
+.nerds:hover {
   font-family: fantasy;
 }
 
