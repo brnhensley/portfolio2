@@ -13,7 +13,7 @@ _This is a webpage portfolio of Brian Hensley's work and information about me. I
 * _Clone from github at https://github.com/brnhensley/portfolio2_
 * _Open index.html in your browser_
 
-* _Or visit https://brnhensley.github.io/portfolio2_
+* _Or visit https://brnhensley.github.io/portfolio2/_
 
 ## Known Bugs
 
