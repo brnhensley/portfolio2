@@ -15,6 +15,13 @@ body {
   margin: 15px;
 }
 
+.dog {
+  max-width: 400px;
+  float: right;
+  margin: 15px;
+  padding-top: 100px;
+}
+
 ul li {
   margin-bottom: 10px;
 }
@@ -36,17 +43,11 @@ ul li {
     list-style: lower-roman inside;
 }
 
-
-.numbered { /* figure out how to do this with child */
-  /* padding: 5px; */
-}
-
 .image:hover {
   max-width: 50%;
 }
 
-img:hover {
-  max-width: 90%;
+a > img:hover {
   /* background: url("img/dumpster.jpg"); I can't for the life of me figure out why this doesn't work with url() or src() */
   background: url("https://1.bp.blogspot.com/-xx0AopECie8/UW9Q-JLY46I/AAAAAAAAAhw/Ti_ST53dPqY/s1600/Dumpster-Fire.jpg");
 }
@@ -54,7 +55,6 @@ img:hover {
 .container {
   margin-bottom: 25px;
 }
-
 
 /* This section is for the bottom panel */
 .panel-title  {
