@@ -11,10 +11,9 @@ _This is a webpage portfolio of Brian Hensley's work and information about him. 
 ## Setup/Installation Requirements
 
 * _Clone from github at https://github.com/brnhensley/portfolio2_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Open index.html in your browser_
+
+* _Or visit https://brnhensley.github.io/portfolio2_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
