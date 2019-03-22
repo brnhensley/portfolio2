@@ -77,6 +77,12 @@ img:hover {
   font-family: fantasy;
 }
 
+h4  {
+  text-align: center;
+  font-weight: bold;
+  font-family: serif;
+}
+
 #bottom-bar {
   background: black;
   padding-top: 15px;
