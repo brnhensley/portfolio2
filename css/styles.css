@@ -15,6 +15,19 @@ body {
   margin: 15px;
 }
 
+ul li {
+  margin-bottom: 10px;
+}
+
+.projects ul {
+  list-style: square inside;
+  padding-bottom: 10px;
+}
+
+.interests {
+  padding-left: 20px;
+}
+
 .interests ul {
     list-style: upper-roman inside;
 }
@@ -23,12 +36,9 @@ body {
     list-style: lower-roman inside;
 }
 
-.projects ul {
-  list-style: square inside;
-}
 
 .numbered { /* figure out how to do this with child */
-  padding: 5px;
+  /* padding: 5px; */
 }
 
 .image:hover {
